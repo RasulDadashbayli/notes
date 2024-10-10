@@ -28,7 +28,7 @@ Welcome to the *Experiments* section!
 - 🧩 
 - 🌍 
 - 🖼️ 
-
+- [CLI commands](docs/cli.md)
 
 
 
